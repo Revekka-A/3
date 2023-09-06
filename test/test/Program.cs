@@ -40,8 +40,8 @@ namespace ConsoleApp1
             players[7] = new Player { Name = "Sasha", Number = 7 };
             players[8] = new Player { Name = "Evgen", Number = 8 };
             players[9] = new Player { Name = "Sam", Number = 9 };
-            players[10] = new Player { Name = "Will", Number = 10 };
-            players[11] = new Player { Name = "Karler", Number = 11 };
+            //players[10] = new Player { Name = "Will", Number = 10 };
+            //players[11] = new Player { Name = "Karler", Number = 11 };
 
 
 
@@ -55,8 +55,8 @@ namespace ConsoleApp1
             Console.WriteLine(players[7].Name + "," + players[7].Number);
             Console.WriteLine(players[8].Name + "," + players[8].Number);
             Console.WriteLine(players[9].Name + "," + players[9].Number);
-            Console.WriteLine(players[10].Name + "," + players[10].Number);
-            Console.WriteLine(players[11].Name + "," + players[11].Number);
+            //Console.WriteLine(players[10].Name + "," + players[10].Number);
+            //Console.WriteLine(players[11].Name + "," + players[11].Number);
 
 
             Console.ReadLine();

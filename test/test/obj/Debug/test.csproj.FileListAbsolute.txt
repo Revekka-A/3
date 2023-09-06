@@ -5,3 +5,10 @@ E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\obj\Debug\test.c
 E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
 E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\obj\Debug\test.exe
 E:\Ревекка\3 курс\МДК Разраб.ПС\test\test\obj\Debug\test.pdb
+C:\Users\rikki\Downloads\3\test\test\bin\Debug\test.exe.config
+C:\Users\rikki\Downloads\3\test\test\bin\Debug\test.exe
+C:\Users\rikki\Downloads\3\test\test\bin\Debug\test.pdb
+C:\Users\rikki\Downloads\3\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\rikki\Downloads\3\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\rikki\Downloads\3\test\test\obj\Debug\test.exe
+C:\Users\rikki\Downloads\3\test\test\obj\Debug\test.pdb
