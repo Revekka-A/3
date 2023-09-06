@@ -43,7 +43,7 @@ namespace ConsoleApp1
             //players[10] = new Player { Name = "Will", Number = 10 };
             //players[11] = new Player { Name = "Karler", Number = 11 };
 
-
+            //Добавим изменения, лаба 1
 
             Console.WriteLine(players[0].Name + "," + players[0].Number);
             Console.WriteLine(players[1].Name + "," + players[1].Number);
